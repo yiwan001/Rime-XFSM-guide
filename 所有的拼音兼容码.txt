@@ -1,0 +1,9 @@
+规则：
+①zh ch sh一律简化为z c s 
+②韵母只取其中的auioe。比如说“挡”的dang，ng不是这五个间的，于是只算da
+②本身便是由声母和两个auioe间的字母组成的，不变。比如说“抱”，它的拼音简码字是“bao”。只有两个字母的，则是这两个字母加结构码（左右结构字用“；”，非左右结构字是用“/”），比如说刚才的“挡”，它是左右结构的字，因此就是“da;”。
+共56个，完全合规则的是54个
+捕bu;抱bao扒ba;扯ce；操cao擦ca;攒cua层ce/滴di；挡da;锻dua弗fu/嘎ga;乖gua汗ha;河he;汇hui号hao哗hua缴jiao迥jio姐jie假jia仅ji；劳lao莲lia郎la;沛pei泡pao撒sa;慑se;谁sui熟sou投tou拖tuo逃tao挑tia绪xu;锈xiu嘻xi；险xia液ye;妖yao丈za/涨za;泽ze;宗zo/族zu;赚zua最zui枝zi;哉zai洲zou追zui
+
+不完全合的是2个：
+睡su;直zie
